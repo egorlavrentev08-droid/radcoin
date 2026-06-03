@@ -6,7 +6,7 @@ import os
 from datetime import datetime, timedelta
 
 # ==================== НАСТРОЙКИ БОТА ====================
-TOKEN = ''
+TOKEN = '8936990905:AAFLkFv3MmUOj8a_WbhRIjojgD3-tkNnEd0'
 ADMIN_CODE = '1252836169043217'
 SUPER_ADMIN_IDS = [6595788533]
 
